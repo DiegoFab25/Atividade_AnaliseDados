@@ -1,0 +1,261 @@
+"Ano";"Mês";"TipoMercado";"RegiãoAgregada";"Preço em Reais por MMBtu";"Volume em mil metros cúbicos/dia"
+"2019";"09";"Térmico";"Norte-Nordeste";18,9;15908
+"2019";"09";"Não Térmico";"Norte-Nordeste";49,3;7159
+"2019";"09";"Não Térmico";"Sudeste";48,8;26028
+"2019";"09";"Térmico";"Sudeste-Sul-Centro-Oeste";18,8;10520
+"2019";"09";"Não Térmico";"Sul-Centro-Oeste";40,1;5726
+"2019";"10";"Térmico";"Norte-Nordeste";18,8;16353
+"2019";"10";"Não Térmico";"Norte-Nordeste";49,4;7500
+"2019";"10";"Não Térmico";"Sudeste";47,8;25854
+"2019";"10";"Térmico";"Sudeste-Sul-Centro-Oeste";21,9;15759
+"2019";"10";"Não Térmico";"Sul-Centro-Oeste";38;5863
+"2019";"11";"Térmico";"Norte-Nordeste";19;16941
+"2019";"11";"Não Térmico";"Norte-Nordeste";48,1;6710
+"2019";"11";"Não Térmico";"Sudeste";47,2;25385
+"2019";"11";"Térmico";"Sudeste-Sul-Centro-Oeste";24,6;16319
+"2019";"11";"Não Térmico";"Sul-Centro-Oeste";39,2;5786
+"2019";"12";"Térmico";"Norte-Nordeste";18,9;15392
+"2019";"12";"Não Térmico";"Norte-Nordeste";48,2;6576
+"2019";"12";"Não Térmico";"Sudeste";46,9;23854
+"2019";"12";"Térmico";"Sudeste-Sul-Centro-Oeste";19,7;10403
+"2019";"12";"Não Térmico";"Sul-Centro-Oeste";37,6;5288
+"2020";"01";"Térmico";"Norte-Nordeste";19,1;16489
+"2020";"01";"Não Térmico";"Norte-Nordeste";44,6;6950
+"2020";"01";"Não Térmico";"Sudeste";42,6;23993
+"2020";"01";"Térmico";"Sudeste-Sul-Centro-Oeste";23,8;9036
+"2020";"01";"Não Térmico";"Sul-Centro-Oeste";38,1;5504
+"2020";"02";"Térmico";"Norte-Nordeste";20,7;12782
+"2020";"02";"Não Térmico";"Norte-Nordeste";46;7146
+"2020";"02";"Não Térmico";"Sudeste";44;19854
+"2020";"02";"Térmico";"Sudeste-Sul-Centro-Oeste";17,9;5834
+"2020";"02";"Não Térmico";"Sul-Centro-Oeste";38,1;4434
+"2020";"03";"Térmico";"Norte-Nordeste";29,1;6157
+"2020";"03";"Não Térmico";"Norte-Nordeste";44,5;6514
+"2020";"03";"Não Térmico";"Sudeste";46,4;22899
+"2020";"03";"Térmico";"Sudeste-Sul-Centro-Oeste";18,7;4607
+"2020";"03";"Não Térmico";"Sul-Centro-Oeste";41,1;3546
+"2020";"04";"Não Térmico";"Norte-Nordeste";45,5;5120
+"2020";"04";"Térmico";"Norte-Nordeste";32,7;5523
+"2020";"04";"Não Térmico";"Sudeste";45,5;17053
+"2020";"04";"Térmico";"Sudeste-Sul-Centro-Oeste";16,2;2714
+"2020";"04";"Não Térmico";"Sul-Centro-Oeste";43,2;3698
+"2020";"05";"Não Térmico";"Norte-Nordeste";40,8;5317
+"2020";"05";"Térmico";"Norte-Nordeste";34,5;5060
+"2020";"05";"Não Térmico";"Sudeste";42,4;19085
+"2020";"05";"Térmico";"Sudeste-Sul-Centro-Oeste";19,5;2509
+"2020";"05";"Não Térmico";"Sul-Centro-Oeste";39;4027
+"2020";"06";"Não Térmico";"Norte-Nordeste";41,5;6080
+"2020";"06";"Térmico";"Norte-Nordeste";27,2;7289
+"2020";"06";"Não Térmico";"Sudeste";42,5;20596
+"2020";"06";"Térmico";"Sudeste-Sul-Centro-Oeste";21,5;5271
+"2020";"06";"Não Térmico";"Sul-Centro-Oeste";38,8;4436
+"2020";"07";"Não Térmico";"Norte-Nordeste";41,3;6657
+"2020";"07";"Térmico";"Norte-Nordeste";26,2;6668
+"2020";"07";"Não Térmico";"Sudeste";39,6;23270
+"2020";"07";"Térmico";"Sudeste-Sul-Centro-Oeste";21,7;4058
+"2020";"07";"Não Térmico";"Sul-Centro-Oeste";38,2;4678
+"2020";"08";"Não Térmico";"Norte-Nordeste";33;6667
+"2020";"08";"Térmico";"Norte-Nordeste";25,6;7942
+"2020";"08";"Não Térmico";"Sudeste";34,5;24061
+"2020";"08";"Térmico";"Sudeste-Sul-Centro-Oeste";21;3132
+"2020";"08";"Não Térmico";"Sul-Centro-Oeste";30,8;4898
+"2020";"09";"Não Térmico";"Norte-Nordeste";33;7017
+"2020";"09";"Térmico";"Norte-Nordeste";26,2;6733
+"2020";"09";"Não Térmico";"Sudeste";33,8;24623
+"2020";"09";"Térmico";"Sudeste-Sul-Centro-Oeste";23,7;2762
+"2020";"09";"Não Térmico";"Sul-Centro-Oeste";31,1;5279
+"2020";"10";"Não Térmico";"Norte-Nordeste";31,8;7179
+"2020";"10";"Térmico";"Norte-Nordeste";20,3;13637
+"2020";"10";"Não Térmico";"Sudeste";34,4;25265
+"2020";"10";"Térmico";"Sudeste-Sul-Centro-Oeste";28,1;6647
+"2020";"10";"Não Térmico";"Sul-Centro-Oeste";31,3;5139
+"2020";"11";"Não Térmico";"Norte-Nordeste";41,8;7115
+"2020";"11";"Térmico";"Norte-Nordeste";20,2;14931
+"2020";"11";"Não Térmico";"Sudeste";41;25878
+"2020";"11";"Térmico";"Sudeste-Sul-Centro-Oeste";31,4;7950
+"2020";"11";"Não Térmico";"Sul-Centro-Oeste";41,4;5373
+"2020";"12";"Não Térmico";"Norte-Nordeste";41,4;6840
+"2020";"12";"Térmico";"Norte-Nordeste";20,1;14817
+"2020";"12";"Não Térmico";"Sudeste";40,7;25296
+"2020";"12";"Térmico";"Sudeste-Sul-Centro-Oeste";35,3;8615
+"2020";"12";"Não Térmico";"Sul-Centro-Oeste";41,2;4879
+"2021";"01";"Não Térmico";"Norte-Nordeste";42,6;6981
+"2021";"01";"Térmico";"Norte-Nordeste";20,8;15971
+"2021";"01";"Não Térmico";"Sudeste";41,8;25158
+"2021";"01";"Térmico";"Sudeste-Sul-Centro-Oeste";32,3;7463
+"2021";"01";"Não Térmico";"Sul-Centro-Oeste";41,1;4967
+"2021";"02";"Não Térmico";"Norte-Nordeste";43;7723
+"2021";"02";"Térmico";"Norte-Nordeste";23,5;14581
+"2021";"02";"Não Térmico";"Sudeste";41,8;27854
+"2021";"02";"Térmico";"Sudeste-Sul-Centro-Oeste";32,3;8262
+"2021";"02";"Não Térmico";"Sul-Centro-Oeste";41,1;5499
+"2021";"03";"Não Térmico";"Norte-Nordeste";42,9;7458
+"2021";"03";"Térmico";"Norte-Nordeste";37,8;4644
+"2021";"03";"Não Térmico";"Sudeste";42,9;25363
+"2021";"03";"Térmico";"Sudeste-Sul-Centro-Oeste";38,9;9845
+"2021";"03";"Não Térmico";"Sul-Centro-Oeste";43,3;4961
+"2021";"04";"Não Térmico";"Norte-Nordeste";42,6;8357
+"2021";"04";"Térmico";"Norte-Nordeste";31,5;6169
+"2021";"04";"Não Térmico";"Sudeste";44,4;25344
+"2021";"04";"Térmico";"Sudeste-Sul-Centro-Oeste";31,3;7470
+"2021";"04";"Não Térmico";"Sul-Centro-Oeste";43,6;5263
+"2021";"05";"Não Térmico";"Norte-Nordeste";54,9;8570
+"2021";"05";"Térmico";"Norte-Nordeste";22,8;12029
+"2021";"05";"Não Térmico";"Sudeste";55,8;26146
+"2021";"05";"Térmico";"Sudeste-Sul-Centro-Oeste";31,3;6736
+"2021";"05";"Não Térmico";"Sul-Centro-Oeste";59,7;5286
+"2021";"06";"Não Térmico";"Norte-Nordeste";53,6;9250
+"2021";"06";"Térmico";"Norte-Nordeste";22,2;14471
+"2021";"06";"Não Térmico";"Sudeste";57;27222
+"2021";"06";"Térmico";"Sudeste-Sul-Centro-Oeste";38,6;10368
+"2021";"06";"Não Térmico";"Sul-Centro-Oeste";60,1;5402
+"2021";"07";"Não Térmico";"Norte-Nordeste";53,6;10323
+"2021";"07";"Térmico";"Norte-Nordeste";22,2;15437
+"2021";"07";"Não Térmico";"Sudeste";58,8;27414
+"2021";"07";"Térmico";"Sudeste-Sul-Centro-Oeste";46,1;10276
+"2021";"07";"Não Térmico";"Sul-Centro-Oeste";60,2;5449
+"2021";"08";"Não Térmico";"Norte-Nordeste";56,9;9976
+"2021";"08";"Térmico";"Norte-Nordeste";21,6;16041
+"2021";"08";"Não Térmico";"Sudeste";62,1;27856
+"2021";"08";"Térmico";"Sudeste-Sul-Centro-Oeste";52,3;8937
+"2021";"08";"Não Térmico";"Sul-Centro-Oeste";64,5;5157
+"2021";"09";"Não Térmico";"Norte-Nordeste";56,7;9297
+"2021";"09";"Térmico";"Norte-Nordeste";21,8;15574
+"2021";"09";"Não Térmico";"Sudeste";62,2;27505
+"2021";"09";"Térmico";"Sudeste-Sul-Centro-Oeste";72,8;4976
+"2021";"09";"Não Térmico";"Sul-Centro-Oeste";65,1;5090
+"2021";"10";"Não Térmico";"Norte-Nordeste";57,6;11126
+"2021";"10";"Térmico";"Norte-Nordeste";21,9;15163
+"2021";"10";"Não Térmico";"Sul-Centro-Oeste";64,6;5330
+"2021";"10";"Não Térmico";"Sudeste";64,8;28094
+"2021";"10";"Térmico";"Sudeste-Sul-Centro-Oeste";82,5;10193
+"2021";"11";"Não Térmico";"Norte-Nordeste";61,6;11419
+"2021";"11";"Térmico";"Norte-Nordeste";22,3;14954
+"2021";"11";"Não Térmico";"Sul-Centro-Oeste";67,3;5349
+"2021";"11";"Não Térmico";"Sudeste";66,5;27496
+"2021";"11";"Térmico";"Sudeste-Sul-Centro-Oeste";64,1;9540
+"2021";"12";"Não Térmico";"Norte-Nordeste";62,4;11088
+"2021";"12";"Térmico";"Norte-Nordeste";26,3;8684
+"2021";"12";"Não Térmico";"Sul-Centro-Oeste";66,8;4941
+"2021";"12";"Não Térmico";"Sudeste";65,9;26026
+"2021";"12";"Térmico";"Sudeste-Sul-Centro-Oeste";45,3;7056
+"2022";"01";"Não Térmico";"Norte-Nordeste";69,1;11144
+"2022";"01";"Térmico";"Norte-Nordeste";40,7;3979
+"2022";"01";"Não Térmico";"Sul-Centro-Oeste";71,5;4827
+"2022";"01";"Não Térmico";"Sudeste";70,1;25850
+"2022";"01";"Térmico";"Sudeste-Sul-Centro-Oeste";60,3;8416
+"2022";"02";"Não Térmico";"Norte-Nordeste";75,1;11585
+"2022";"02";"Térmico";"Norte-Nordeste";39,9;4294
+"2022";"02";"Não Térmico";"Sul-Centro-Oeste";81,9;5126
+"2022";"02";"Não Térmico";"Sudeste";79,5;26620
+"2022";"02";"Térmico";"Sudeste-Sul-Centro-Oeste";44,5;7381
+"2022";"03";"Não Térmico";"Norte-Nordeste";75,3;11579
+"2022";"03";"Térmico";"Norte-Nordeste";NA;3831
+"2022";"03";"Não Térmico";"Sudeste";79,3;26003
+"2022";"03";"Não Térmico";"Sul-Centro-Oeste";82,3;5281
+"2022";"03";"Térmico";"Sudeste-Sul-Centro-Oeste";31,1;3228
+"2022";"04";"Não Térmico";"Norte-Nordeste";80,8;11520
+"2022";"04";"Térmico";"Norte-Nordeste";38,1;4952
+"2022";"04";"Não Térmico";"Sudeste";79,7;26106
+"2022";"04";"Não Térmico";"Sul-Centro-Oeste";82,2;5253
+"2022";"04";"Térmico";"Sudeste-Sul-Centro-Oeste";43,5;669
+"2022";"05";"Não Térmico";"Norte-Nordeste";91,9;12015
+"2022";"05";"Térmico";"Norte-Nordeste";37,6;4037
+"2022";"05";"Não Térmico";"Sudeste";93,8;27122
+"2022";"05";"Não Térmico";"Sul-Centro-Oeste";105,8;5287
+"2022";"05";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;537
+"2022";"06";"Não Térmico";"Norte-Nordeste";84,7;11327
+"2022";"06";"Térmico";"Norte-Nordeste";21,8;10951
+"2022";"06";"Não Térmico";"Sudeste";93,6;27590
+"2022";"06";"Não Térmico";"Sul-Centro-Oeste";105,8;5379
+"2022";"06";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;154
+"2022";"07";"Não Térmico";"Norte-Nordeste";79,2;10373
+"2022";"07";"Térmico";"Norte-Nordeste";23,9;8843
+"2022";"07";"Não Térmico";"Sudeste";92,5;26917
+"2022";"07";"Não Térmico";"Sul-Centro-Oeste";105,5;5166
+"2022";"07";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;350
+"2022";"08";"Não Térmico";"Norte-Nordeste";86,7;11105
+"2022";"08";"Térmico";"Norte-Nordeste";23,7;9096
+"2022";"08";"Não Térmico";"Sudeste";96;27075
+"2022";"08";"Térmico";"Sudeste-Sul-Centro-Oeste";285,5;917
+"2022";"08";"Não Térmico";"Sul-Centro-Oeste";110,3;5125
+"2022";"09";"Não Térmico";"Norte-Nordeste";80,2;10550
+"2022";"09";"Térmico";"Norte-Nordeste";23;9238
+"2022";"09";"Não Térmico";"Sudeste";95,6;26483
+"2022";"09";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;864
+"2022";"09";"Não Térmico";"Sul-Centro-Oeste";107,8;4972
+"2022";"10";"Não Térmico";"Norte-Nordeste";79,2;12061
+"2022";"10";"Térmico";"Norte-Nordeste";25,4;8108
+"2022";"10";"Não Térmico";"Sudeste";95,3;25274
+"2022";"10";"Não Térmico";"Sul-Centro-Oeste";104,8;4897
+"2022";"10";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;843
+"2022";"11";"Não Térmico";"Norte-Nordeste";77,9;11177
+"2022";"11";"Térmico";"Norte-Nordeste";27,1;7318
+"2022";"11";"Não Térmico";"Sudeste";90,2;25500
+"2022";"11";"Não Térmico";"Sul-Centro-Oeste";100,2;4853
+"2022";"11";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;926
+"2022";"12";"Não Térmico";"Norte-Nordeste";80,2;11405
+"2022";"12";"Não Térmico";"Sudeste";90;23381
+"2022";"12";"Térmico";"Norte-Nordeste";NA;9722
+"2022";"12";"Não Térmico";"Sul-Centro-Oeste";98,1;4198
+"2022";"12";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;1214
+"2023";"01";"Não Térmico";"Norte-Nordeste";76,1;11298
+"2023";"01";"Não Térmico";"Sudeste";90,5;23458
+"2023";"01";"Térmico";"Norte-Nordeste";NA;6944
+"2023";"01";"Não Térmico";"Sul-Centro-Oeste";92,9;4200
+"2023";"01";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;1506
+"2023";"02";"Não Térmico";"Norte-Nordeste";70,5;11104
+"2023";"02";"Não Térmico";"Sudeste";82,3;24174
+"2023";"02";"Térmico";"Norte-Nordeste";NA;5152
+"2023";"02";"Não Térmico";"Sul-Centro-Oeste";84,8;4549
+"2023";"02";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;753
+"2023";"03";"Não Térmico";"Norte-Nordeste";68;11382
+"2023";"03";"Não Térmico";"Sudeste";82,3;24228
+"2023";"03";"Térmico";"Norte-Nordeste";NA;4406
+"2023";"03";"Não Térmico";"Sul-Centro-Oeste";85,3;4484
+"2023";"03";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;744
+"2023";"04";"Não Térmico";"Norte-Nordeste";67,3;9813
+"2023";"04";"Não Térmico";"Sudeste";82,7;24065
+"2023";"04";"Térmico";"Norte-Nordeste";NA;7029
+"2023";"04";"Não Térmico";"Sul-Centro-Oeste";88,7;4454
+"2023";"04";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;1242
+"2023";"05";"Não Térmico";"Norte-Nordeste";61,7;9597
+"2023";"05";"Não Térmico";"Sudeste";76,3;25025
+"2023";"05";"Térmico";"Norte-Nordeste";NA;5315
+"2023";"05";"Não Térmico";"Sul-Centro-Oeste";82;4361
+"2023";"05";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;922
+"2023";"06";"Não Térmico";"Norte-Nordeste";61,2;8822
+"2023";"06";"Não Térmico";"Sudeste";76,1;25483
+"2023";"06";"Térmico";"Norte-Nordeste";NA;9834
+"2023";"06";"Não Térmico";"Sul-Centro-Oeste";82,5;4417
+"2023";"06";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;796
+"2023";"07";"Não Térmico";"Norte-Nordeste";59,8;9568
+"2023";"07";"Não Térmico";"Sudeste";77,1;24526
+"2023";"07";"Térmico";"Norte-Nordeste";NA;8202
+"2023";"07";"Não Térmico";"Sul-Centro-Oeste";83,8;4123
+"2023";"07";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;865
+"2023";"08";"Não Térmico";"Norte-Nordeste";56,5;8042
+"2023";"08";"Não Térmico";"Sudeste";72,2;24727
+"2023";"08";"Térmico";"Norte-Nordeste";NA;6938
+"2023";"08";"Não Térmico";"Sul-Centro-Oeste";76,3;4339
+"2023";"08";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;1090
+"2023";"09";"Não Térmico";"Norte-Nordeste";56,6;9243
+"2023";"09";"Não Térmico";"Sudeste";72;24332
+"2023";"09";"Térmico";"Norte-Nordeste";NA;7565
+"2023";"09";"Não Térmico";"Sul-Centro-Oeste";74,1;4287
+"2023";"09";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;70
+"2023";"10";"Não Térmico";"Norte-Nordeste";58,8;9707
+"2023";"10";"Não Térmico";"Sudeste";71,9;24502
+"2023";"10";"Térmico";"Norte-Nordeste";NA;7410
+"2023";"10";"Não Térmico";"Sul-Centro-Oeste";75;4168
+"2023";"10";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;357
+"2023";"11";"Não Térmico";"Norte-Nordeste";62,1;9005
+"2023";"11";"Não Térmico";"Sudeste";77,9;24427
+"2023";"11";"Térmico";"Norte-Nordeste";27,4;10682
+"2023";"11";"Não Térmico";"Sul-Centro-Oeste";81;4213
+"2023";"11";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;2143
+"2023";"12";"Não Térmico";"Norte-Nordeste";62;8319
+"2023";"12";"Não Térmico";"Sudeste";80,1;22479
+"2023";"12";"Térmico";"Norte-Nordeste";30,2;8611
+"2023";"12";"Não Térmico";"Sul-Centro-Oeste";80,9;3718
+"2023";"12";"Térmico";"Sudeste-Sul-Centro-Oeste";NA;3065
